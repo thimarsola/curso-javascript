@@ -17,4 +17,3 @@
 - Array
 - Object
 - Null and Undefined
-# curso-javascript
